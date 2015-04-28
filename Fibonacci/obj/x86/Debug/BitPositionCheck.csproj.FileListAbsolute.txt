@@ -1,0 +1,7 @@
+F:\Programming\CodeEval Challenges\Bit Position Check\BitPositionCheck\bin\Debug\BitPositionCheck.exe
+F:\Programming\CodeEval Challenges\Bit Position Check\BitPositionCheck\bin\Debug\BitPositionCheck.pdb
+F:\Programming\CodeEval Challenges\Bit Position Check\BitPositionCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programming\CodeEval Challenges\Bit Position Check\BitPositionCheck\obj\x86\Debug\BitPositionCheck.exe
+F:\Programming\CodeEval Challenges\Bit Position Check\BitPositionCheck\obj\x86\Debug\BitPositionCheck.pdb
+F:\Programming\CodeEval Challenges\Reverse Words\obj\x86\Debug\BitPositionCheck.exe
+F:\Programming\CodeEval Challenges\Reverse Words\obj\x86\Debug\BitPositionCheck.pdb
